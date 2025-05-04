@@ -20,16 +20,18 @@
 
 ```js
 // ==UserScript==
-// @name         Twitch Skipper
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Скрывает рекламные оверлеи и предложения Twitch Turbo на Twitch
+// @name         Twitch Ad Skipper
+// @namespace    https://github.com/Teddy903/Twitch-Ad-Skipper
+// @version      1.0.0
+// @description  Блокирует рекламу и убирает баннер Twitch Turbo на Twitch.tv
 // @author       Teddy903
 // @match        https://www.twitch.tv/*
 // @grant        none
-// @updateURL   https://github.com/Teddy903/Twitch-Ad-Skipper
-// @downloadURL  https://github.com/Teddy903/Twitch-Ad-Skipper
+// @run-at       document-start
+// @updateURL    https://raw.githubusercontent.com/Teddy903/Twitch-Ad-Skipper/main/twitch-skipper.user.js
+// @downloadURL  https://raw.githubusercontent.com/Teddy903/Twitch-Ad-Skipper/main/twitch-skipper.user.js
 // ==/UserScript==
+
 
 
 (function () {
