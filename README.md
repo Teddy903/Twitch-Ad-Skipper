@@ -27,8 +27,8 @@
 // @author       Teddy903
 // @match        https://www.twitch.tv/*
 // @grant        none
-// @updateURL    https://github.com/Teddy903/Twitch-Skipper/raw/main/twitch-skipper.user.js
-// @downloadURL  https://github.com/Teddy903/Twitch-Skipper/raw/main/twitch-skipper.user.js
+// @updateURL   https://github.com/Teddy903/Twitch-Ad-Skipper
+// @downloadURL  https://github.com/Teddy903/Twitch-Ad-Skipper
 // ==/UserScript==
 
 
